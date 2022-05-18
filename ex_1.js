@@ -57,9 +57,15 @@ function chessPiece(arr){
   }
  
  
+<<<<<<< HEAD
  console.log(chessPiece(piece1)); //[ 1, 0, 0, 0, 0, 1 ]
  console.log(chessPiece(piece2)); //[ -1, 0, 0, 1, 0, 7 ] 
  console.log(chessPiece(piece3)); //[ 1, 0, 1, -3, -1, 2 ]
+=======
+ console.log(chessPiece(piece11)); //[ 1, 0, 0, 0, 0, 1 ]
+ console.log(chessPiece(piece12)); //[ -1, 0, 0, 1, 0, 7 ] 
+ console.log(chessPiece(piece13)); //[ 1, 0, 1, -3, -1, 2 ]
+>>>>>>> main
 
 
 
